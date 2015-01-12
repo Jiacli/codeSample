@@ -1,4 +1,4 @@
-Inception
+codeSample
 =========
 
-Collection of inspirations
+Collection of sample codes
